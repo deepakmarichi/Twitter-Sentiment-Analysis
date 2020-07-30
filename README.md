@@ -19,7 +19,7 @@ When actual class is yes but predicted class in no.
 * __F1 Score = 2*(Recall * Precision) / (Recall + Precision)__
 * F1 is usually more useful than accuracy, especially if for an uneven class distribution
 
-## The course is divided into below modules:
+## The project is divided into below modules:
 * Text Preprocessing
 * Data Exploration
 * Feature Extraction
